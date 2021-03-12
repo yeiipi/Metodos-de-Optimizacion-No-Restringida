@@ -1,8 +1,8 @@
-# Algoritmos De Busqueda de Linea
+# Algoritmos De Búsqueda de Linea
 
 ## Algoritmos
 
-- Busqueda en Sección Aurea:
+- Búsqueda en Sección Aurea:
 
 ## Integrantes
 
